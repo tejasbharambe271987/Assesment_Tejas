@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage
+    Title="Peoples List"
+    Padding="0,20,0,0"
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="AssesmentTejas.View.PeopleList">
+   <ListView x:Name="ListView" HasUnevenRows="True" ItemSelected="ListView_ItemSelected" ItemTapped="ListView_ItemTapped">
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <Frame Padding="10">
+                    <StackLayout Orientation="Horizontal">
+                        <BoxView Color="Blue" HeightRequest="100" WidthRequest="100"/>
+                         <StackLayout Padding="0,10,0,10">
+                        <Label Text="{Binding name,StringFormat='Name : {0}' }" Padding="10,0,0,0" />
+                        <Label Text="{Binding gender,StringFormat='Gender : {0}' }" Padding="10,0,0,0" />
+                        <Label Text="{Binding birth_year,StringFormat='BirthYear : {0}' }" Padding="10,0,0,0" />
+                    </StackLayout>
+                    </StackLayout>
+                     </Frame>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>

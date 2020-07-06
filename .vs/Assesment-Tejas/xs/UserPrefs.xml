@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{81843E15-EC78-4397-9521-BCECE9269F50}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.Assesment-Tejas.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assesment-Tejas/View/PeopleList.xaml.cs">
+    <Files>
+      <File FileName="Assesment-Tejas/View/PeopleList.xaml.cs" Line="1" Column="1" IsPinned="True" />
+      <File FileName="Assessment_Tejas.Tests/Test.cs" Line="33" Column="80" />
+      <File FileName="Assesment-Tejas/Model/Person.cs" Line="10" Column="33" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Assesment-Tejas" expanded="True">
+            <Node name="Assesment-Tejas" expanded="True">
+              <Node name="Model" expanded="True" />
+              <Node name="View" expanded="True">
+                <Node name="DetailPage.xaml" expanded="True" />
+                <Node name="PeopleList.xaml" expanded="True">
+                  <Node name="PeopleList.xaml.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="ViewModel" expanded="True" />
+            </Node>
+            <Node name="Assessment_Tejas.Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Assesment-Tejas.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jyotsna/Projects/Assesment-Tejas/AssesmentTejasTest/UnitTest1.cs" relfile="AssesmentTejasTest/UnitTest1.cs" line="14" column="1" />
+      <Breakpoint file="/Users/jyotsna/Projects/Assesment-Tejas/AssesmentTejasTest/UnitTest1.cs" relfile="AssesmentTejasTest/UnitTest1.cs" line="21" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assessment__Tejas.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

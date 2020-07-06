@@ -1,0 +1,15 @@
+/Users/jyotsna/Projects/Assesment-Tejas/Assesment-Tejas/bin/Debug/netstandard2.0/Assesment-Tejas.deps.json
+/Users/jyotsna/Projects/Assesment-Tejas/Assesment-Tejas/bin/Debug/netstandard2.0/Assesment-Tejas.dll
+/Users/jyotsna/Projects/Assesment-Tejas/Assesment-Tejas/bin/Debug/netstandard2.0/ref/Assesment-Tejas.dll
+/Users/jyotsna/Projects/Assesment-Tejas/Assesment-Tejas/bin/Debug/netstandard2.0/Assesment-Tejas.pdb
+/Users/jyotsna/Projects/Assesment-Tejas/Assesment-Tejas/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/jyotsna/Projects/Assesment-Tejas/Assesment-Tejas/obj/Debug/netstandard2.0/View/DetailPage.xaml.g.cs
+/Users/jyotsna/Projects/Assesment-Tejas/Assesment-Tejas/obj/Debug/netstandard2.0/View/PeopleList.xaml.g.cs
+/Users/jyotsna/Projects/Assesment-Tejas/Assesment-Tejas/obj/Debug/netstandard2.0/Assesment-Tejas.AssemblyInfoInputs.cache
+/Users/jyotsna/Projects/Assesment-Tejas/Assesment-Tejas/obj/Debug/netstandard2.0/Assesment-Tejas.AssemblyInfo.cs
+/Users/jyotsna/Projects/Assesment-Tejas/Assesment-Tejas/obj/Debug/netstandard2.0/Assesment-Tejas.csproj.CoreCompileInputs.cache
+/Users/jyotsna/Projects/Assesment-Tejas/Assesment-Tejas/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/jyotsna/Projects/Assesment-Tejas/Assesment-Tejas/obj/Debug/netstandard2.0/Assesment-Tejas.dll
+/Users/jyotsna/Projects/Assesment-Tejas/Assesment-Tejas/obj/Debug/netstandard2.0/ref/Assesment-Tejas.dll
+/Users/jyotsna/Projects/Assesment-Tejas/Assesment-Tejas/obj/Debug/netstandard2.0/Assesment-Tejas.pdb
+/Users/jyotsna/Projects/Assesment-Tejas/Assesment-Tejas/obj/Debug/netstandard2.0/Assesment-Tejas.csprojAssemblyReference.cache

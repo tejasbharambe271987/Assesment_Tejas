@@ -1,0 +1,12 @@
+/Users/jyotsna/Projects/Assesment-Tejas/Assessment_Tejas.Tests/bin/Debug/Assessment_Tejas.Tests.dll
+/Users/jyotsna/Projects/Assesment-Tejas/Assessment_Tejas.Tests/bin/Debug/Assessment_Tejas.Tests.pdb
+/Users/jyotsna/Projects/Assesment-Tejas/Assessment_Tejas.Tests/bin/Debug/Assesment-Tejas.dll
+/Users/jyotsna/Projects/Assesment-Tejas/Assessment_Tejas.Tests/bin/Debug/nunit.framework.dll
+/Users/jyotsna/Projects/Assesment-Tejas/Assessment_Tejas.Tests/bin/Debug/Assesment-Tejas.pdb
+/Users/jyotsna/Projects/Assesment-Tejas/Assessment_Tejas.Tests/bin/Debug/nunit.framework.pdb
+/Users/jyotsna/Projects/Assesment-Tejas/Assessment_Tejas.Tests/bin/Debug/nunit.framework.xml
+/Users/jyotsna/Projects/Assesment-Tejas/Assessment_Tejas.Tests/obj/Debug/Assessment_Tejas.Tests.csprojAssemblyReference.cache
+/Users/jyotsna/Projects/Assesment-Tejas/Assessment_Tejas.Tests/obj/Debug/Assessment_Tejas.Tests.csproj.CoreCompileInputs.cache
+/Users/jyotsna/Projects/Assesment-Tejas/Assessment_Tejas.Tests/obj/Debug/Assessment_Tejas.Tests.csproj.CopyComplete
+/Users/jyotsna/Projects/Assesment-Tejas/Assessment_Tejas.Tests/obj/Debug/Assessment_Tejas.Tests.dll
+/Users/jyotsna/Projects/Assesment-Tejas/Assessment_Tejas.Tests/obj/Debug/Assessment_Tejas.Tests.pdb
